@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "723297496675",
+    "firebase_url": "https://cafelinux-dev.firebaseio.com",
+    "project_id": "cafelinux-dev",
+    "storage_bucket": "cafelinux-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723297496675:android:01e222d6492f8bc3",
+        "android_client_info": {
+          "package_name": "com.cafelabs.curlme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723297496675-9gjnhovftqp00duedo72lru1qmkmtusc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafelabs.curlme",
+            "certificate_hash": "f79748960450869c92b1d3237b6d29e506960c77"
+          }
+        },
+        {
+          "client_id": "723297496675-tvj1tiiuuuhj2adq3qdqu19lajepoio8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuqaYusac7G7XuaQi8ZnMpDbTYJ-dyaoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723297496675-tvj1tiiuuuhj2adq3qdqu19lajepoio8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723297496675:android:f156c196f589c1b2",
+        "android_client_info": {
+          "package_name": "com.cafelabs.hugternate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723297496675-tu2jbno1u5g1pdkjbh5r32vb2j3iu548.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafelabs.hugternate",
+            "certificate_hash": "af50ab821e20f2ad9de16a31a80c400acaf9d285"
+          }
+        },
+        {
+          "client_id": "723297496675-tvj1tiiuuuhj2adq3qdqu19lajepoio8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuqaYusac7G7XuaQi8ZnMpDbTYJ-dyaoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723297496675-tvj1tiiuuuhj2adq3qdqu19lajepoio8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723297496675:android:aedfbca07b4309e1",
+        "android_client_info": {
+          "package_name": "com.cafelinux.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723297496675-unjisnlec792dogfjlnvi5g7g2dlnnbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafelinux.app",
+            "certificate_hash": "8a5e52e8fcf2f63686feafade57df56a81dd17d9"
+          }
+        },
+        {
+          "client_id": "723297496675-50qsqvesl5vpn03astqv6f872pr2ot9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cafelinux.app",
+            "certificate_hash": "f9a266a8558a815bd3a967cd1c668fdf69f555cf"
+          }
+        },
+        {
+          "client_id": "723297496675-tvj1tiiuuuhj2adq3qdqu19lajepoio8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuqaYusac7G7XuaQi8ZnMpDbTYJ-dyaoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723297496675:android:fd81f727d5233682",
+        "android_client_info": {
+          "package_name": "land.friendzit.onair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723297496675-4hcq18icea232utvml70cu0moi9r2l5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "land.friendzit.onair",
+            "certificate_hash": "0e69c051cd1735a2f2f941a755916055c482fd22"
+          }
+        },
+        {
+          "client_id": "723297496675-tvj1tiiuuuhj2adq3qdqu19lajepoio8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "723297496675-fv7pbov0kld72gi5cu6ka018rlu5e43i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuqaYusac7G7XuaQi8ZnMpDbTYJ-dyaoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723297496675-tvj1tiiuuuhj2adq3qdqu19lajepoio8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
