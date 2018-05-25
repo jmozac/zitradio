@@ -1,0 +1,37 @@
+@charset "utf-8";
+@font-face{font-family:Cabin;src:url(fonts/Cabin-Regular-TTF.ttf);}
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    /*-webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-attachment:fixed;
+    font-size:1em;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    width:100%;
+    font-family:Cabin;
+}
+.main{width:100%;height:100%;padding:10px;
+    background:url(../img/bg.jpeg) repeat center top;position:absolute}
+.box{width:100%;height:100%;padding:10px;background-color:rgba(0,0,0,.8);box-sizing:border-box;border-radius:3px}
+.grid,.main,.header,.nav,.body,.footer,.cover{width:100%}
+.header{width:100%;border-bottom:solid 2px #ef1142;padding-bottom:5px}
+	.header-text{float:left;color:#ccc;padding:10px;font-weight:bold}
+		.h1{font-size:2em}
+		.h2{font-size:1.2em}
+		.h6{font-size:0.7em;font-weight:normal;float:right;padding:8px}
+	.img{width:80px;height:80px;border:solid 3px #ef1142;border-radius:20%;text-align:center;background-color:rgba(0,0,0,.6);float:left}
+		.img img{max-width:100%}
+	.player{width:100%;text-align:center;padding-top:50px}
+		.player img{width:70px}
+.chat{width:100%;margin-top:20px;height:100px;display:block;border-top:solid 5px #000}
+	.chat-box{height:80px;overflow:auto;color:#ccc;width:100%;display:block}
+	.chat-input{width:100%}
+		.chat-input textarea{width:100%;float:left;background-color:rgba(0,0,0,.5);border:none;border-bottom:solid 1px #666;color:#fff;font-size:1.1em;padding:10px;box-sizing:border-box;}
+	.chat-list{padding:5px;width:100%}
+		.nick{color:#ef115f;font-weight:bold;background-color:rgba(0,0,0,0.5);padding:5px}
